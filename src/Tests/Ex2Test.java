@@ -65,3 +65,4 @@ class Ex2Test {
 	////////A: BECUASE IT HAS GARBAGE COLLECTOR 
 
 }
+
